@@ -1,6 +1,8 @@
 <template>
   <div>
-      <p>about page</p>
+      <h3>about page</h3>
+      <p>project not finished yet .. needs some work</p>
+
   </div>
 </template>
 

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>hello</p>
+    <p>Testing NUXT framwork .. </p>
   </div>
 </template>
 
